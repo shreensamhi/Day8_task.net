@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\bin\Debug\net8.0\Day8.net.exe
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\bin\Debug\net8.0\Day8.net.deps.json
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\bin\Debug\net8.0\Day8.net.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\bin\Debug\net8.0\Day8.net.dll
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\bin\Debug\net8.0\Day8.net.pdb
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\obj\Debug\net8.0\Day8.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\obj\Debug\net8.0\Day8.net.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\obj\Debug\net8.0\Day8.net.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\obj\Debug\net8.0\Day8.net.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\obj\Debug\net8.0\Day8.net.dll
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\obj\Debug\net8.0\refint\Day8.net.dll
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\obj\Debug\net8.0\Day8.net.pdb
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\obj\Debug\net8.0\Day8.net.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Day8.net\Day8.net\obj\Debug\net8.0\ref\Day8.net.dll
